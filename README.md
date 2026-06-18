@@ -6,7 +6,7 @@ This project is a simple Machine Learning system that predicts whether a student
 The model is trained using **Logistic Regression** and takes into account:
 - Weekly Study Hours
 - Attendance Percentage
-- Class Participation (out of 10)
+- Class Participation
 
 ---
 
@@ -21,8 +21,8 @@ This helps in understanding how study habits and attendance impact student outco
 The model uses the following input features:
 
 - 📚 Weekly Study Hours (continuous value)
-- 🏫 Attendance Percentage (0–100)
-- 🎯 Class Participation (0–10)
+- 🏫 Attendance Percentage 
+- 🎯 Class Participation 
 
 ---
 
@@ -43,7 +43,7 @@ The model uses the following input features:
 - name
 - weekly_study_hours
 - attendance
-- participation_out_of_10
+- participation
 - result (PASS / FAIL)
 
 ---
