@@ -35,7 +35,7 @@ The model uses the following input features:
 ---
 
 ## 📊 Dataset Information
-- Total Records: ~100 rows
+- Total Records: ~200 rows
 - Type: Synthetic dataset (created for learning purposes)
 - Format: CSV file
 
