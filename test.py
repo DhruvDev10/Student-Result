@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 
-df = pd.read_csv(r"H:\Dhruv_intern\Others\students.csv")
+df = pd.read_csv(r"H:\Dhruv_intern\Others\Student-Result\students.csv")
 
 X = df[
     [
