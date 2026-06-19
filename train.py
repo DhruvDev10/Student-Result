@@ -5,7 +5,7 @@ import os
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import LabelEncoder
 
-data = (r"H:\Dhruv_intern\Others\students.csv")
+data = (r"H:\Dhruv_intern\Others\Student-Result\students.csv")
 df = pd.read_csv(data)
 
 X = df[
